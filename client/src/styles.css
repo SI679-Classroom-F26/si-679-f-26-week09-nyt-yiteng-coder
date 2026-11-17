@@ -43,6 +43,11 @@
 .brand {
   font-size: 1.15rem;
   margin-right: 1rem;
+  /* Go Blue: maize text on Michigan blue. */
+  color: #ffcb05;
+  background: #00274c;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
 }
 
 nav button {
